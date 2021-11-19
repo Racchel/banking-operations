@@ -1,4 +1,4 @@
-## FinApi - Financeia
+## FinApi - Financeira
 Estudo dos fundamentos do Node.js - Operações bancárias 
 
 ---
